@@ -4,6 +4,7 @@ Misc plots of fantasy premier league stats for your own fantasy leagues.
 
 ## Usage
 `python fpl_scrape_and_plot.py`
+Edit `my_team_id` to get plots of your leagues, or alternatively list them in `league_ids`. 
 
 ## Description
 Raw data is read from the fantasy premier league API, for example:
