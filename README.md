@@ -19,3 +19,10 @@ Although not currently used, a third resource is:
 Based on info found 
 [here](http://www.fiso.co.uk/forum/viewtopic.php?f=18&t=121295&p=2911180#p2911180 "fiso.co.uk").
 
+## Method
+Written in python. Data scraped using requests and plotted using matplotlib.
+
+## Example output
+![Alt](league_rank_LR-Consulting-Norway.png "League rank")
+
+![Alt](league_gw_rank_Sofaligaen.png "GW rank")
