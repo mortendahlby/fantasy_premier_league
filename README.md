@@ -23,6 +23,6 @@ Based on info found
 Written in python. Data scraped using requests and plotted using matplotlib.
 
 ## Example output
-![Alt](league_rank_LR-Consulting-Norway.png "League rank")
+![Alt](/league_rank_LR-Consulting-Norway.png "League rank")
 
-![Alt](league_gw_rank_Sofaligaen.png "GW rank")
+![Alt](/league_gw_rank_Sofaligaen.png "GW rank")
