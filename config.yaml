@@ -1,0 +1,6 @@
+out_folder: plots
+my_team_id: 70189
+force_these_league_ids:
+  - #74045
+ignore_these_league_ids: 
+  - 29394
